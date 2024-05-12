@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLogic1", "ConsoleAppLogics\PalindromeLogic1.csproj", "{A7A340B6-9BE7-4B27-B5C4-31000618D62C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLogic2", "ConsoleAppPalindrome2\PalindromeLogic2.csproj", "{92321E91-0D20-49EF-8300-A0B9AD4D9416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPalindromeCheck", "NumberPalindromeCheck\NumberPalindromeCheck.csproj", "{77E33A36-9356-4DFC-BE44-ACD45B10590A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A340B6-9BE7-4B27-B5C4-31000618D62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A340B6-9BE7-4B27-B5C4-31000618D62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A340B6-9BE7-4B27-B5C4-31000618D62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A340B6-9BE7-4B27-B5C4-31000618D62C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92321E91-0D20-49EF-8300-A0B9AD4D9416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92321E91-0D20-49EF-8300-A0B9AD4D9416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92321E91-0D20-49EF-8300-A0B9AD4D9416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92321E91-0D20-49EF-8300-A0B9AD4D9416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E33A36-9356-4DFC-BE44-ACD45B10590A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E33A36-9356-4DFC-BE44-ACD45B10590A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E33A36-9356-4DFC-BE44-ACD45B10590A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E33A36-9356-4DFC-BE44-ACD45B10590A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E6867F-1718-47D8-A13B-529A61B8434A}
+	EndGlobalSection
+EndGlobal

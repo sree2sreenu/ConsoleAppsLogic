@@ -1,0 +1,15 @@
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\bin\Debug\net6.0\NumberPalindromeCheck.exe
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\bin\Debug\net6.0\NumberPalindromeCheck.deps.json
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\bin\Debug\net6.0\NumberPalindromeCheck.runtimeconfig.json
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\bin\Debug\net6.0\NumberPalindromeCheck.dll
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\bin\Debug\net6.0\NumberPalindromeCheck.pdb
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\NumberPalindromeCheck.csproj.AssemblyReference.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\NumberPalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\NumberPalindromeCheck.AssemblyInfoInputs.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\NumberPalindromeCheck.AssemblyInfo.cs
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\NumberPalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\NumberPalindromeCheck.dll
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\refint\NumberPalindromeCheck.dll
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\NumberPalindromeCheck.pdb
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\NumberPalindromeCheck.genruntimeconfig.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\NumberPalindromeCheck\obj\Debug\net6.0\ref\NumberPalindromeCheck.dll

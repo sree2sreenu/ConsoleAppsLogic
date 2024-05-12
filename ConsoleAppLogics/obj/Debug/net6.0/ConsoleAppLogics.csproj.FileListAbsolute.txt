@@ -1,0 +1,15 @@
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Debug\net6.0\ConsoleAppLogics.exe
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Debug\net6.0\ConsoleAppLogics.deps.json
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Debug\net6.0\ConsoleAppLogics.runtimeconfig.json
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Debug\net6.0\ConsoleAppLogics.dll
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Debug\net6.0\ConsoleAppLogics.pdb
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\ConsoleAppLogics.csproj.AssemblyReference.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\ConsoleAppLogics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\ConsoleAppLogics.AssemblyInfoInputs.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\ConsoleAppLogics.AssemblyInfo.cs
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\ConsoleAppLogics.csproj.CoreCompileInputs.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\ConsoleAppLogics.dll
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\refint\ConsoleAppLogics.dll
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\ConsoleAppLogics.pdb
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\ConsoleAppLogics.genruntimeconfig.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Debug\net6.0\ref\ConsoleAppLogics.dll

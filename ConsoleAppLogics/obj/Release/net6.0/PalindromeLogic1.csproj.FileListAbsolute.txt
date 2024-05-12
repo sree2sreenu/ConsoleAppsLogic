@@ -1,0 +1,15 @@
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Release\net6.0\PalindromeLogic1.exe
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Release\net6.0\PalindromeLogic1.deps.json
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Release\net6.0\PalindromeLogic1.runtimeconfig.json
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Release\net6.0\PalindromeLogic1.dll
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\bin\Release\net6.0\PalindromeLogic1.pdb
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\PalindromeLogic1.csproj.AssemblyReference.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\PalindromeLogic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\PalindromeLogic1.AssemblyInfoInputs.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\PalindromeLogic1.AssemblyInfo.cs
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\PalindromeLogic1.csproj.CoreCompileInputs.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\PalindromeLogic1.dll
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\refint\PalindromeLogic1.dll
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\PalindromeLogic1.pdb
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\PalindromeLogic1.genruntimeconfig.cache
+C:\Users\sreen\OneDrive\Desktop\Learning\Labs\ConsoleApp\ConsoleAppLogics\obj\Release\net6.0\ref\PalindromeLogic1.dll
